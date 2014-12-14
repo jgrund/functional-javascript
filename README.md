@@ -9,6 +9,10 @@ A primer on functional JavaScript.
 
 ##### Recursion
 
+###### ES5 Recursion Limits
+
+###### ES6 Tail Call Optimization
+
 ##### Partial Application
 
 ##### Currying
@@ -17,7 +21,11 @@ A primer on functional JavaScript.
 ##### Resources
 
 http://ramdajs.com/
+
 http://fr.umio.us/favoring-curry/
+
 highlandjs.org
+
 https://github.com/promises-aplus
+
 http://learnyouahaskell.com/
